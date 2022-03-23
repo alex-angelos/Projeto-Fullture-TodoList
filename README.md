@@ -1,2 +1,2 @@
-# Java-Script
+# JavaScript
 Projetos em Java Script
